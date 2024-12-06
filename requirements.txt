@@ -1,0 +1,7 @@
+pandas
+openpyxl
+plotly
+wordcloud
+matplotlib
+numpy
+scipy
